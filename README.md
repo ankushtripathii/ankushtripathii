@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ankushtripathii
+- 👋 Hi, I’m **@ankushtripathii**
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning web development / data structure.
 <!---
