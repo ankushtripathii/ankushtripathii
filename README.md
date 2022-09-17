@@ -9,6 +9,9 @@ i'm Ankush tripathi</h1>
 * 💻 I also learning Data structure and algorithm 
 * 📥 How to reach me ankushtripathi510@gmail.com
 
+<h2> Connect with me </h2>
+
+[<img align="left" width="30" height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg">](https://twitter.com/imalphaorionis?t=3IDp2LyC7wcgWujDy-eJbA&s=09)
 
 
 <!---
