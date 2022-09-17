@@ -9,7 +9,7 @@ i'm Ankush tripathi</h1>
 * 💻 I also learning Data structure and algorithm 
 * 📥 How to reach me ankushtripathi510@gmail.com
 
-[<h3 align="left"> Connect with me 💬</h3>](https://linktr.ee/ankushtripathii)
+[<h4 align="left"> Connect with me 💬</h4>](https://linktr.ee/ankushtripathii)
 
 
 <!---
