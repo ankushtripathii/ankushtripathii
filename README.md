@@ -11,8 +11,19 @@ i'm Ankush tripathi</h1>
 
 [<h4 align="left"> Connect with me 💬</h4>](https://linktr.ee/ankushtripathii)
 
+<hr>
+
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=ankushtripathii&show_icons=true&theme=tokyonight" />
+ <img class="img" src="https://streak-stats.demolab.com/?user=ankushtripathii&theme=tokyonight" />
+</div><br>
+<div align="center">
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushtripathii&theme=tokyonight" />
+</div>
+ 
 
 <!---
 ankushtripathii/ankushtripathii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
 --->
