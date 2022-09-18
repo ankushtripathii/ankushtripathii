@@ -16,7 +16,7 @@ i'm Ankush tripathi</h1>
 <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=ankushtripathii&show_icons=true&theme=tokyonight" />
  <img class="img" src="https://streak-stats.demolab.com/?user=ankushtripathii&theme=tokyonight" />
-</div><br>
+</div>
 <div align="center">
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushtripathii&theme=tokyonight" />
 </div>
