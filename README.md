@@ -11,9 +11,9 @@ i'm Ankush tripathi</h1>
 
 [<h4 align="left"> Connect with me 💬</h4>](https://linktr.ee/ankushtripathii)
 <hr>
-<div style="display: flex; flex-direction: row;height:0;">
- <img class="img" width="500"  src="https://github-readme-stats.vercel.app/api?username=ankushtripathii&show_icons=true&theme=tokyonight" />
- <img class="img" width="500"  src="https://streak-stats.demolab.com/?user=ankushtripathii&theme=tokyonight" />
+<div style="display: flex; flex-direction: row;">
+ <img class="img" width="420"  src="https://github-readme-stats.vercel.app/api?username=ankushtripathii&show_icons=true&theme=tokyonight" />
+ <img class="img" width="420"  src="https://streak-stats.demolab.com/?user=ankushtripathii&theme=tokyonight" />
 </div>
 <div align="center">
  <img class="img" width="350" height="220"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushtripathii&theme=tokyonight" />
