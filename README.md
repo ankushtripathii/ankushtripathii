@@ -3,20 +3,10 @@ i'm Ankush tripathi</h1>
 
 <h3 align="center">A passionate computer engineering student from India </h3>
 
-
-
-
-
-<a href="https://app.daily.dev/ankushtripathii"><img src="https://github.com/ankushtripathii/ankushtripathii/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
-
-
-
-
+<a href="https://app.daily.dev/ankushtripathii"><br><br><br><img src="https://github.com/ankushtripathii/ankushtripathii/blob/main/devcard.svg" width="400" alt="Ankush Dev Card" align="right"/></a>
 
 # 💫 About Me:
 🧑‍💻 I'm currently learning JavaScript.<br>✉️ Ask me about HTML CSS JAVASCRIPT.<br>💻 I'm also learning Data structure and algorithm<br>📥 How to reach me ankushtripathi510@gmail.com
-
-
 
 
 
