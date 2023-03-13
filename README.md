@@ -2,10 +2,12 @@
 i'm Ankush tripathi</h1>
 <h3 align="center">A passionate computer engineering student from India </h3>
 
+<a href="https://app.daily.dev/ankushtripathii"><br><img  src="https://api.daily.dev/devcards/a3a7e6e9671148bfba50c5af8f919732.png?r=tnp" width="350" alt="Ankush Tripathi's Dev Card" align="right" /></a>
+
 # 💫 About Me:
 🧑‍💻 I'm currently learning JavaScript.<br>✉️ Ask me about HTML CSS JAVASCRIPT.<br>💻 I'm also learning Data structure and algorithm<br>📥 How to reach me ankushtripathi510@gmail.com
 
-<a href="https://app.daily.dev/ankushtripathii"><img src="https://api.daily.dev/devcards/a3a7e6e9671148bfba50c5af8f919732.png?r=tnp" width="350" alt="Ankush Tripathi's Dev Card" align="right"/></a>
+
 
 
 ## 🌐 Socials:
