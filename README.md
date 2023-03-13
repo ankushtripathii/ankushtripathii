@@ -3,7 +3,6 @@ i'm Ankush tripathi</h1>
 <h3 align="center">A passionate computer engineering student from India </h3>
 
 
-<a href="https://app.daily.dev/ankushtripathii"><img src="https://github.com/ankushtripathii/ankushtripathii/blob/master/devcard.svg" width="400" alt="AnkushDev Card"/></a>
 
 
 # 💫 About Me:
