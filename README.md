@@ -14,7 +14,7 @@ i'm Ankush tripathi</h1>
 <hr>
 <div style="display: flex; flex-direction: row;">
  <img class="img" width="420"   src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ankushtripathii&show_icons=true&theme=tokyonight"/>
- <img class="img" width="440"   src="https://streak-stats.demolab.com/?user=ankushtripathii&theme=tokyonight"/>
+ <img class="img" width="420"   src="https://streak-stats.demolab.com/?user=ankushtripathii&theme=tokyonight"/>
 </div>
 <div align="center">
  <img class="img" width="350" height="220"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ankushtripathii&theme=tokyonight" />
