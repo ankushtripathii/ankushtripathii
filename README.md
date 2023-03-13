@@ -4,6 +4,7 @@ i'm Ankush tripathi</h1>
 
 <h2> About me</h2>
 
+
 * 🧑‍💻 I'm currently learning JavaScript.
 * ✉️ Ask me about **HTML CSS JAVASCRIPT**.
 * 💻 I'm also learning Data structure and algorithm 
@@ -12,8 +13,8 @@ i'm Ankush tripathi</h1>
 [<h4 align="left"> Connect with me 💬</h4>](https://linktr.ee/ankushtripathii)
 <hr>
 <div style="display: flex; flex-direction: row;">
- <img class="img" width="420"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ankushtripathii&show_icons=true&theme=tokyonight"/>
- <img class="img" width="420"  src="https://streak-stats.demolab.com/?user=ankushtripathii&theme=tokyonight"/>
+ <img class="img"   src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ankushtripathii&show_icons=true&theme=tokyonight"/>
+ <img class="img"   src="https://streak-stats.demolab.com/?user=ankushtripathii&theme=tokyonight"/>
 </div>
 <div align="center">
  <img class="img" width="350" height="220"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ankushtripathii&theme=tokyonight" />
