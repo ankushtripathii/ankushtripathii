@@ -6,7 +6,7 @@ I'm Ankush Tripathi</h1>
 <a href="https://app.daily.dev/ankushtripathii"><br><br><img src="https://github.com/ankushtripathii/ankushtripathii/blob/main/devcard.svg" width="380" alt="Ankush Dev Card" align="right"/></a>
 
 # 💫 About Me:
-🧑‍💻 I'm currently exploring on machine learning and python.<br>✉️ Ask me about HTML CSS & JAVASCRIPT.<br>💻 I'm also learning Data structure and algorithm<br>📥 How to reach me ankushtripathi510@gmail.com
+🧑‍💻 I'm currently exploring on machine learning and python.<br>✉️ Ask me about HTML CSS & JAVASCRIPT.<br>💻 learning Data structure and algorithm<br>📥 How to reach me ankushtripathi510@gmail.com
 
 
 
@@ -27,9 +27,4 @@ I'm Ankush Tripathi</h1>
 ---
 [![](https://visitcount.itsvg.in/api?id=ankushtripathii&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!---
-ankushtripathii/ankushtripathii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 
---->
