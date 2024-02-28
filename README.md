@@ -6,7 +6,7 @@ I'm Ankush Tripathi</h1>
 <a href="https://app.daily.dev/ankushtripathii"><br><br><img src="https://github.com/ankushtripathii/ankushtripathii/blob/main/devcard.svg" width="380" alt="Ankush Dev Card" align="right"/></a>
 
 # 💫 About Me:
-🧑‍💻 I'm currently exploring on machine learning and python.<br>✉️ Ask me about HTML CSS & JAVASCRIPT.<br>💻 learning Data structure and algorithm<br>📥 How to reach me ankushtripathi510@gmail.com
+🧑‍💻 I'm currently exploring on machine learning and python.<br>✉️ Ask me about HTML CSS & JAVASCRIPT.<br>🔖 learning Data structure and algorithm<br>📥 How to reach me ankushtripathi510@gmail.com
 
 
 
