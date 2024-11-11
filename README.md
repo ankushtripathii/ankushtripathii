@@ -6,7 +6,7 @@ I'm Ankush Tripathi</h1>
 <a href="https://app.daily.dev/ankushtripathii"><br><br><img src="https://github.com/ankushtripathii/ankushtripathii/blob/main/devcard.svg" width="380" alt="Ankush Dev Card" align="right"/></a>
 
 # 💫 About Me:
-🧑‍💻 Software Engineer.<br>✉️ Ask me about HTML CSS & JAVASCRIPT.<br>🔖 learning Mobile App development<br>📥 How to reach me ankushtripathi510@gmail.com
+🧑‍💻 Software Engineer.<br>✉️ Ask me about JAVASCRIPT & JAVA.<br>🔖 learning Spring boot (java)<br>📥 How to reach me ankushtripathi510@gmail.com
 
 
 
