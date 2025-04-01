@@ -1,7 +1,6 @@
 <h1 align="center">Hey ,
 I'm Ankush Tripathi</h1>
 
-<h3 align="center">A passionate computer engineering student from India </h3>
 
 <a href="https://app.daily.dev/ankushtripathii"><br><br><img src="https://github.com/ankushtripathii/ankushtripathii/blob/main/devcard.svg" width="380" alt="Ankush Dev Card" align="right"/></a>
 
